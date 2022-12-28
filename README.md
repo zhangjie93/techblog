@@ -7,6 +7,7 @@
 + [有赞技术团队](https://tech.youzan.com/)
 + [淘宝数据库内核月报](http://mysql.taobao.org/monthly/)
 + [即时通讯网](http://www.52im.net/):更像是论坛的形式
++ [腾讯技术工程](https://cloud.tencent.com/developer/column/1283)
 + [High Scalability](http://highscalability.com/)
 + [The GitHub Blog](https://github.com/blog/category/engineering)
 + [Engineering at Quora](http://engineering.quora.com/)
