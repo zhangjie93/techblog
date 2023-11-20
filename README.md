@@ -11,7 +11,7 @@
 + [字节跳动技术团队](https://juejin.cn/user/1838039172387262)
 ## 个人博客
 
-+ [四火的唠叨](https://www.raychase.net/)
-+ [周志明](https://github.com/fenixsoft)
++ [四火的唠叨](https://www.raychase.net/) 亮点:分布式系统设计图解https://www.raychase.net/6364
++ [周志明](https://github.com/fenixsoft) 
 + [Aleksey Shipilëv](https://shipilev.net/)主要关注与Java Performance相关
-+ [draveness](https://draveness.me/) 作用写的为什么这么设计写得很不错
++ [draveness](https://draveness.me/) 亮点:作用写的为什么这么设计写得很不错
