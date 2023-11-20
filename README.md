@@ -18,3 +18,4 @@
 + [周志明](https://github.com/fenixsoft) 
 + [Aleksey Shipilëv](https://shipilev.net/)主要关注与Java Performance相关
 + [draveness](https://draveness.me/) 亮点:为什么这么设计系列
++ [小林coding](https://xiaolincoding.com/) 图解系列
